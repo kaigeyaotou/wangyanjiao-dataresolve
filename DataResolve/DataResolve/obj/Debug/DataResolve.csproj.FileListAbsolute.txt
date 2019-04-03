@@ -1,0 +1,17 @@
+E:\StudyFiles\DataResolve\DataResolve\DataResolve\obj\Debug\DataResolve.csprojAssemblyReference.cache
+E:\StudyFiles\DataResolve\DataResolve\DataResolve\obj\Debug\DataResolve.Form1.resources
+E:\StudyFiles\DataResolve\DataResolve\DataResolve\obj\Debug\DataResolve.Properties.Resources.resources
+E:\StudyFiles\DataResolve\DataResolve\DataResolve\obj\Debug\DataResolve.csproj.GenerateResource.cache
+E:\StudyFiles\DataResolve\DataResolve\DataResolve\obj\Debug\DataResolve.csproj.CoreCompileInputs.cache
+E:\StudyFiles\DataResolve\DataResolve\DataResolve\bin\Debug\DataResolve.exe.config
+E:\StudyFiles\DataResolve\DataResolve\DataResolve\bin\Debug\DataResolve.exe
+E:\StudyFiles\DataResolve\DataResolve\DataResolve\bin\Debug\DataResolve.pdb
+E:\StudyFiles\DataResolve\DataResolve\DataResolve\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\StudyFiles\DataResolve\DataResolve\DataResolve\bin\Debug\NPOI.dll
+E:\StudyFiles\DataResolve\DataResolve\DataResolve\bin\Debug\NPOI.OOXML.dll
+E:\StudyFiles\DataResolve\DataResolve\DataResolve\bin\Debug\NPOI.OpenXml4Net.dll
+E:\StudyFiles\DataResolve\DataResolve\DataResolve\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\StudyFiles\DataResolve\DataResolve\DataResolve\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\StudyFiles\DataResolve\DataResolve\DataResolve\obj\Debug\DataResolve.csproj.CopyComplete
+E:\StudyFiles\DataResolve\DataResolve\DataResolve\obj\Debug\DataResolve.exe
+E:\StudyFiles\DataResolve\DataResolve\DataResolve\obj\Debug\DataResolve.pdb
